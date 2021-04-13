@@ -2,13 +2,11 @@
   "name": "svelte-app",
   "version": "1.0.0",
   "private": true,
-  "homepage": "https://elisagiorgi.github.io/svelte-moon/",
+  "homepage": "/svelte-moon/",
   "scripts": {
     "build": "rollup -c",
     "dev": "rollup -c -w",
-    "start": "sirv public --no-clear",
-    "predeploy": "npm run build",
-    "deploy": "gh-pages -d build"
+    "start": "sirv public --no-clear"
   },
   "devDependencies": {
     "@rollup/plugin-commonjs": "^17.0.0",
