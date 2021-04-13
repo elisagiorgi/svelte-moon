@@ -2,8 +2,7 @@
   "name": "svelte-app",
   "version": "1.0.0",
   "private": true,
-  {
-    "homepage": "https://elisagiorgi.github.io/svelte-moon/",
+  "homepage": "https://elisagiorgi.github.io/svelte-moon/",
   "scripts": {
     "build": "rollup -c",
     "dev": "rollup -c -w",
